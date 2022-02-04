@@ -1,5 +1,5 @@
 # Mission-to-Mars
-We are crreating a web application for collecting Mars data and images. Our task is to enhance our existing page with images of all four hemispheres of the plant and enhance the web bage with bootstrapping components. There are 3 deliverables:
+We are creating a web application for collecting Mars data and images. Our task is to enhance our existing page with images of all four hemispheres of the plant and enhance the web bage with bootstrapping components. There are 3 deliverables:
 - Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles
 - Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
 - Deliverable 3: Add Bootstrap 3 Components
